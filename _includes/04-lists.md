@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* Motorcycle camping
+  * Wild camping
+  * National forests
+* Traveling
